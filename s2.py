@@ -14,7 +14,7 @@ from angmom import (
 
 # Constants - Set USE_TEX = True if you want the report's formatting
 MU_B = 1.3996244936 # MHz / G
-USE_TEX = True
+USE_TEX = False
 
 # Preamble
 np.set_printoptions(precision=4, suppress=True, linewidth=110)
